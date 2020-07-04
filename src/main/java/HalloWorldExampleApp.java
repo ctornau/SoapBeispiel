@@ -1,6 +1,9 @@
 import de.sampleendpoint.HelloWorldImpl;
 import javax.xml.ws.Endpoint;
 
+/**
+ * Der Server
+ */
 public class HalloWorldExampleApp {
 
     public static void main(String[]args) {
